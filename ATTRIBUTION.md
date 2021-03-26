@@ -5,7 +5,7 @@ Lists of important people and organizations that help push this OSS project alon
 ## Corporate Sponsors
 
 <a href="https://bluenova.io" rel=”noopener noreferrer”>
-  <img src="logos/bluenova.png" width="200px" />
+  <img src="/logos/bluenova.png" width="200px">
 </a>
 
 ## Individual Sponsors

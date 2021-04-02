@@ -1,4 +1,4 @@
-# OSS Compliance
+# Node Compliance
 
 Building tools to help people comply with OSS standards & policies.
 
